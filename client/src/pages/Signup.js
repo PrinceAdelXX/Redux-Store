@@ -44,6 +44,7 @@ function Signup(props) {
             type="firstName"
             id="firstName"
             onChange={handleChange}
+            required
           />
         </div>
         <div className="flex-row space-between my-2">
@@ -54,6 +55,7 @@ function Signup(props) {
             type="lastName"
             id="lastName"
             onChange={handleChange}
+            required
           />
         </div>
         <div className="flex-row space-between my-2">
@@ -64,6 +66,7 @@ function Signup(props) {
             type="email"
             id="email"
             onChange={handleChange}
+            required
           />
         </div>
         <div className="flex-row space-between my-2">
@@ -74,6 +77,7 @@ function Signup(props) {
             type="password"
             id="pwd"
             onChange={handleChange}
+            required
           />
         </div>
         <div className="flex-row flex-end">
