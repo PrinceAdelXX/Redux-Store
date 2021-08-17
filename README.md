@@ -15,7 +15,9 @@ Heroku
 
 ## Screenshots
 
-![Screenshot](C:\Users\TranquilityRadiance\UCLA-Bootcamp\projects\Redux-Store\images\shop.png)
+![](images/shop.png)
+
+![](images/)
 
 ## License
 
