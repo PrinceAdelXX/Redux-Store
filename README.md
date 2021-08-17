@@ -15,7 +15,7 @@ Heroku
 
 ## Screenshots
 
-![GitHub Logo](C:\Users\TranquilityRadiance\UCLA-Bootcamp\projects\Redux-Store\images\shop.png)
+![Screenshot](C:\Users\TranquilityRadiance\UCLA-Bootcamp\projects\Redux-Store\images\shop.png)
 
 ## License
 
