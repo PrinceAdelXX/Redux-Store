@@ -13,6 +13,10 @@ Apollo
 JsonWebToken
 Heroku
 
+## Screenshots
+
+![Screenshot]C:\Users\TranquilityRadiance\UCLA-Bootcamp\projects\Redux-Store\images\shop.png
+
 ## License
 
 GNU GENERAL PUBLIC LICENSE
