@@ -16,8 +16,11 @@ Heroku
 ## Screenshots
 
 ![](images/shop.png)
+<<<<<<< HEAD
 
 ![](images/)
+=======
+>>>>>>> 358c5d9f04b73966d587b3cc6eb9492aabb4dd1e
 
 ## License
 
